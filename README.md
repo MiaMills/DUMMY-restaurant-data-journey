@@ -15,6 +15,10 @@ Across six modules, I will build evidence of my work in data quality, SQL, data 
 - BigQuery
 
 ## Module 1: Introduction to Data
+### Day 1 Evidence
+
+- [Data Detective exercise](docs/module-1/day-1-data-detective.md)
+- [Business Question to Data Question exercise](docs/module-1/day-1-business-questions.md)
 
 Day 1 Reflection
 
