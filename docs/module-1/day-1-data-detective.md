@@ -28,6 +28,7 @@ This task reminded me of what data is and helped me to distinguish between the t
 It also improved my understanding of how data can be further classified: 
 
 Data can be classified into three types based on how it is organised and stored.
+
 **structured data:**  Structured data follows a predefined format, usually arranged in rows and columns, such as spreadsheets or databases, making it easy to search, sort and analyse; 
 
 **semi-structured data:** Semi-structured data has some organisation through labels, tags or key-value pairs, such as JSON or XML files, but does not follow a rigid table format for example: `"order_id": "BAO125", "item": "Baobab drink", "quantity": 2`; and 
